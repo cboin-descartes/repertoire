@@ -1,0 +1,28 @@
+
+.erreur{
+    color: red;
+}
+
+body {
+    background-color:#ffd;
+    font-family:Verdana,Helvetica,Arial,sans-serif;
+}
+
+table {
+    border:1px solid black;
+    position:relative;
+    width:50%;
+}
+    
+    
+td { 
+    border:1px solid orange;
+    width:50%;
+    text-align: center;
+}
+
+th { 
+    border:2px solid black;
+    width:50%;
+    text-align: center;
+}
