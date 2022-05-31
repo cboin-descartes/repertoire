@@ -4,8 +4,8 @@
 /* Création de objet PDO de connexion */
 function connectBD()
 {
-    $user = "root";
-    $pass =  "";
+    $user = "clement";
+    $pass =  "clement";
    
     $cnx= new PDO('mysql:host=localhost;dbname=repertoire',$user,$pass);
 
